@@ -1,13 +1,25 @@
-r<!doctype html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-  </head>
-  <body>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fábrica de Projetos Valdir</title>
+    <link rel="stylesheet" href="trabalhovaldir.css">
+    <script>src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"</script>
+</head>
+<body>
     <h1 class="text-3xl font-bold underline">
-      Hello world!
     </h1>
-  </body>
+    <nav class="bg-blue-500 p-4">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+          <a href="#" class="text-white text-2xl font-semibold">Fábrica de Projetos</a>
+          <ul class="flex space-x-6">
+            <li><a href="#descricao" class="text-white hover:text-gray-300">Descrição</a></li>
+            <li><a href="#empresa" class="text-white hover:text-gray-300">Sobre a Empresa</a></li>
+            <li><a href="#projeto" class="text-white hover:text-gray-300">Projeto</a></li>
+            <li><a href="#membros" class="text-white hover:text-gray-300">Membros</a></li>
+          </ul>
+        </div>
+      </nav>
+</body>
 </html>
