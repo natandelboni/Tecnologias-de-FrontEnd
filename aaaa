@@ -21,5 +21,68 @@
           </ul>
         </div>
       </nav>
+      <section id="descricao" class="py-16 px-6 bg-white">
+        <div class="max-w-7xl mx-auto text-center">
+          <h2 class="text-3xl font-semibold text-blue-600 mb-4">Sobre a Disciplina</h2>
+          <p class="text-lg text-gray-700">
+            A Fábrica de Projetos proporciona aos alunos a oportunidade de aplicar os conceitos desenvolvidos durante o curso em um projeto. Os estudantes trabalham em grupo para desenvolver um software, utilizando metodologias ágeis e práticas de desenvolvimento.
+          </p>
+        </div>
+      </section>
+      
+      <section id="empresa" class="py-16 px-6 bg-gray-50">
+        <div class="max-w-7xl mx-auto text-center">
+          <h2 class="text-3xl font-semibold text-blue-600 mb-4">Sobre a Empresa</h2>
+          <p class="text-lg text-gray-700">
+            A empresa é 
+          </p>
+        </div>
+      </section>
+
+      <section id="projeto" class="py-16 px-6 bg-white">
+        <div class="max-w-7xl mx-auto text-center">
+          <h2 class="text-3xl font-semibold text-blue-600 mb-4">Tema do Projeto</h2>
+          <p class="text-lg text-gray-700">
+            O projeto desenvolvido é uma plataforma de gerenciamento de tarefas para equipes de trabalho. Facilitando a organização, acompanhamento de progresso e comunicação entre os membros da equipe, aumentando a produtividade e a eficiência no gerenciamento de projetos.
+          </p>
+        </div>
+      </section>
+    
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
+      <footer class="bg-blue-600 text-white py-6">
+        <div class="max-w-7xl mx-auto text-center">
+          <p>&copy; 2025 Fábrica de Projetos - Todos os direitos reservados.</p>
+        </div>
+      </footer>
+    
+    
 </body>
 </html>
+
